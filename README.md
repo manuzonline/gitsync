@@ -1,0 +1,2 @@
+# gitsync
+sync test
